@@ -1,0 +1,894 @@
+{
+ "_说明": "每日 GEO 选题队列。例程每次取一条 todo，写完标 done。问句来自真实 SERP 检索，不是编的。",
+ "topics": [
+  {
+   "q": "how much does a glamping pod cost",
+   "sub": "旅居与住宿",
+   "head": "glamping pod",
+   "rivals": [
+    "CONRAYN",
+    "Glamni",
+    "Guose Group"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how long do inflatable tents last",
+   "sub": "旅居与住宿",
+   "head": "glamping pod",
+   "rivals": [
+    "CONRAYN",
+    "Glamni",
+    "Guose Group"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "are glamping pods waterproof",
+   "sub": "旅居与住宿",
+   "head": "glamping pod",
+   "rivals": [
+    "CONRAYN",
+    "Glamni",
+    "Guose Group"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "vs safari tent — which one should you buy?",
+   "sub": "旅居与住宿",
+   "head": "glamping pod",
+   "rivals": [
+    "CONRAYN",
+    "Glamni",
+    "Guose Group"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "vs prefab cabin — which one should you buy?",
+   "sub": "旅居与住宿",
+   "head": "glamping pod",
+   "rivals": [
+    "CONRAYN",
+    "Glamni",
+    "Guose Group"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how long does it take to set up a field hospital tent",
+   "sub": "医疗",
+   "head": "inflatable medical tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Landmark Creations",
+    "Hushine"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what is a triage tent",
+   "sub": "医疗",
+   "head": "inflatable medical tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Landmark Creations",
+    "Hushine"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how many beds in a field hospital",
+   "sub": "医疗",
+   "head": "inflatable medical tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Landmark Creations",
+    "Hushine"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs frame field hospital tent — which one should you buy?",
+   "sub": "医疗",
+   "head": "inflatable medical tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Landmark Creations",
+    "Hushine"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "Losberger DST alternative — which one should you buy?",
+   "sub": "医疗",
+   "head": "inflatable medical tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Landmark Creations",
+    "Hushine"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how fast can an emergency shelter be deployed",
+   "sub": "应急安置",
+   "head": "emergency shelter tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Shelter Structures",
+    "Hushine"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what is a transitional shelter",
+   "sub": "应急安置",
+   "head": "emergency shelter tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Shelter Structures",
+    "Hushine"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs frame emergency tent — which one should you buy?",
+   "sub": "应急安置",
+   "head": "emergency shelter tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Shelter Structures",
+    "Hushine"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "vs canvas relief tent — which one should you buy?",
+   "sub": "应急安置",
+   "head": "emergency shelter tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Shelter Structures",
+    "Hushine"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what is a mobile command post",
+   "sub": "指挥与办公",
+   "head": "mobile command post",
+   "rivals": [
+    "Losberger De Boer",
+    "Fast Modular",
+    "RCY"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how fast to deploy a command tent",
+   "sub": "指挥与办公",
+   "head": "mobile command post",
+   "rivals": [
+    "Losberger De Boer",
+    "Fast Modular",
+    "RCY"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs container command post — which one should you buy?",
+   "sub": "指挥与办公",
+   "head": "mobile command post",
+   "rivals": [
+    "Losberger De Boer",
+    "Fast Modular",
+    "RCY"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what is a drop stitch tent",
+   "sub": "军事与防务",
+   "head": "inflatable military tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Nordic Deployment",
+    "i2k Defense"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how strong is an inflatable military tent",
+   "sub": "军事与防务",
+   "head": "inflatable military tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Nordic Deployment",
+    "i2k Defense"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what wind can an inflatable tent take",
+   "sub": "军事与防务",
+   "head": "inflatable military tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Nordic Deployment",
+    "i2k Defense"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "drop stitch vs air beam tent — which one should you buy?",
+   "sub": "军事与防务",
+   "head": "inflatable military tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Nordic Deployment",
+    "i2k Defense"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "Losberger DST alternative — which one should you buy?",
+   "sub": "军事与防务",
+   "head": "inflatable military tent",
+   "rivals": [
+    "Losberger De Boer",
+    "Nordic Deployment",
+    "i2k Defense"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what shelter works at minus 40",
+   "sub": "特种环境",
+   "head": "remote site accommodation",
+   "rivals": [
+    "Weatherhaven",
+    "Losberger De Boer"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how to build a camp with no road access",
+   "sub": "特种环境",
+   "head": "remote site accommodation",
+   "rivals": [
+    "Weatherhaven",
+    "Losberger De Boer"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs rigid expedition shelter — which one should you buy?",
+   "sub": "特种环境",
+   "head": "remote site accommodation",
+   "rivals": [
+    "Weatherhaven",
+    "Losberger De Boer"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how much does an air dome cost",
+   "sub": "大跨与场馆",
+   "head": "inflatable sports hall",
+   "rivals": [
+    "Losberger De Boer",
+    "HTS tentiQ",
+    "Farley Group"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "does an air dome need constant power",
+   "sub": "大跨与场馆",
+   "head": "inflatable sports hall",
+   "rivals": [
+    "Losberger De Boer",
+    "HTS tentiQ",
+    "Farley Group"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "air dome vs air beam hall — which one should you buy?",
+   "sub": "大跨与场馆",
+   "head": "inflatable sports hall",
+   "rivals": [
+    "Losberger De Boer",
+    "HTS tentiQ",
+    "Farley Group"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs steel frame hall — which one should you buy?",
+   "sub": "大跨与场馆",
+   "head": "inflatable sports hall",
+   "rivals": [
+    "Losberger De Boer",
+    "HTS tentiQ",
+    "Farley Group"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how big can an inflatable hangar be",
+   "sub": "装备防护",
+   "head": "inflatable aircraft hangar",
+   "rivals": [
+    "Losberger De Boer",
+    "i2k Defense",
+    "RUBB"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "can a hangar be moved",
+   "sub": "装备防护",
+   "head": "inflatable aircraft hangar",
+   "rivals": [
+    "Losberger De Boer",
+    "i2k Defense",
+    "RUBB"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs fabric frame hangar — which one should you buy?",
+   "sub": "装备防护",
+   "head": "inflatable aircraft hangar",
+   "rivals": [
+    "Losberger De Boer",
+    "i2k Defense",
+    "RUBB"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how fast to set up an event tent",
+   "sub": "商业空间",
+   "head": "pop-up store structure",
+   "rivals": [
+    "Airfull Inflatables",
+    "Brandcrown"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "can inflatable tents be branded",
+   "sub": "商业空间",
+   "head": "pop-up store structure",
+   "rivals": [
+    "Airfull Inflatables",
+    "Brandcrown"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs frame event tent — which one should you buy?",
+   "sub": "商业空间",
+   "head": "pop-up store structure",
+   "rivals": [
+    "Airfull Inflatables",
+    "Brandcrown"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how does a water filled cofferdam work",
+   "sub": "围控与防洪",
+   "head": "inflatable flood barrier",
+   "rivals": [
+    "Dam-It Dams",
+    "AquaDam",
+    "Aqua-Barrier (HSI)"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how long does it take to deploy a flood barrier",
+   "sub": "围控与防洪",
+   "head": "inflatable flood barrier",
+   "rivals": [
+    "Dam-It Dams",
+    "AquaDam",
+    "Aqua-Barrier (HSI)"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "are flood barriers reusable",
+   "sub": "围控与防洪",
+   "head": "inflatable flood barrier",
+   "rivals": [
+    "Dam-It Dams",
+    "AquaDam",
+    "Aqua-Barrier (HSI)"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "air filled vs water filled flood barrier — which one should you buy?",
+   "sub": "围控与防洪",
+   "head": "inflatable flood barrier",
+   "rivals": [
+    "Dam-It Dams",
+    "AquaDam",
+    "Aqua-Barrier (HSI)"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "AquaDam alternative — which one should you buy?",
+   "sub": "围控与防洪",
+   "head": "inflatable flood barrier",
+   "rivals": [
+    "Dam-It Dams",
+    "AquaDam",
+    "Aqua-Barrier (HSI)"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how much weight can a pontoon bridge hold",
+   "sub": "通行与承载",
+   "head": "inflatable pontoon bridge",
+   "rivals": [
+    "Ningbo Jiayi Marine",
+    "Deyuan Marine",
+    "Pontoon China"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how fast to assemble a floating bridge",
+   "sub": "通行与承载",
+   "head": "inflatable pontoon bridge",
+   "rivals": [
+    "Ningbo Jiayi Marine",
+    "Deyuan Marine",
+    "Pontoon China"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs plastic pontoon — which one should you buy?",
+   "sub": "通行与承载",
+   "head": "inflatable pontoon bridge",
+   "rivals": [
+    "Ningbo Jiayi Marine",
+    "Deyuan Marine",
+    "Pontoon China"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "vs Bailey bridge — which one should you buy?",
+   "sub": "通行与承载",
+   "head": "inflatable pontoon bridge",
+   "rivals": [
+    "Ningbo Jiayi Marine",
+    "Deyuan Marine",
+    "Pontoon China"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how much load can a floating platform take",
+   "sub": "作业平台",
+   "head": "floating work platform",
+   "rivals": [
+    "Ningbo Jiayi Marine",
+    "Pontoon China"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs HDPE floating platform — which one should you buy?",
+   "sub": "作业平台",
+   "head": "floating work platform",
+   "rivals": [
+    "Ningbo Jiayi Marine",
+    "Pontoon China"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what is an air deck",
+   "sub": "船艇与浮具",
+   "head": "drop stitch air deck",
+   "rivals": [
+    "Zhejiang MSD",
+    "HITAC"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how much pressure for a drop stitch board",
+   "sub": "船艇与浮具",
+   "head": "drop stitch air deck",
+   "rivals": [
+    "Zhejiang MSD",
+    "HITAC"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "drop stitch vs aluminium floor — which one should you buy?",
+   "sub": "船艇与浮具",
+   "head": "drop stitch air deck",
+   "rivals": [
+    "Zhejiang MSD",
+    "HITAC"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how high can you jump into a rescue cushion",
+   "sub": "疏散",
+   "head": "rescue air cushion",
+   "rivals": [
+    "Paratech",
+    "MatJack",
+    "Vetter"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how fast does a rescue cushion inflate",
+   "sub": "疏散",
+   "head": "rescue air cushion",
+   "rivals": [
+    "Paratech",
+    "MatJack",
+    "Vetter"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "air cushion vs jump bag — which one should you buy?",
+   "sub": "疏散",
+   "head": "rescue air cushion",
+   "rivals": [
+    "Paratech",
+    "MatJack",
+    "Vetter"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "can a stretcher float",
+   "sub": "伤员转运",
+   "head": "inflatable stretcher",
+   "rivals": [
+    "Ferno",
+    "Paratech"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how much weight can an inflatable stretcher take",
+   "sub": "伤员转运",
+   "head": "inflatable stretcher",
+   "rivals": [
+    "Ferno",
+    "Paratech"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs basket stretcher — which one should you buy?",
+   "sub": "伤员转运",
+   "head": "inflatable stretcher",
+   "rivals": [
+    "Ferno",
+    "Paratech"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how much can an air lifting bag lift",
+   "sub": "脱困与举升",
+   "head": "pneumatic lifting bag",
+   "rivals": [
+    "Paratech",
+    "MatJack",
+    "Vetter"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what pressure do lifting bags use",
+   "sub": "脱困与举升",
+   "head": "pneumatic lifting bag",
+   "rivals": [
+    "Paratech",
+    "MatJack",
+    "Vetter"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "air bag vs hydraulic jack — which one should you buy?",
+   "sub": "脱困与举升",
+   "head": "pneumatic lifting bag",
+   "rivals": [
+    "Paratech",
+    "MatJack",
+    "Vetter"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how do inflatable fenders work",
+   "sub": "防护缓冲",
+   "head": "inflatable fender",
+   "rivals": [
+    "Yokohama",
+    "Trelleborg"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs foam fender — which one should you buy?",
+   "sub": "防护缓冲",
+   "head": "inflatable fender",
+   "rivals": [
+    "Yokohama",
+    "Trelleborg"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how thick should an air track be",
+   "sub": "体操与训练",
+   "head": "air track",
+   "rivals": [
+    "AirTrack Factory (NL)",
+    "American Gymnast",
+    "Nairbag"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what pressure for an air track",
+   "sub": "体操与训练",
+   "head": "air track",
+   "rivals": [
+    "AirTrack Factory (NL)",
+    "American Gymnast",
+    "Nairbag"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "air track vs foam mat — which one should you buy?",
+   "sub": "体操与训练",
+   "head": "air track",
+   "rivals": [
+    "AirTrack Factory (NL)",
+    "American Gymnast",
+    "Nairbag"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how long does an inflatable water park last",
+   "sub": "水上运动",
+   "head": "inflatable water park",
+   "rivals": [
+    "Wibit",
+    "Aquaglide"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs fixed water park — which one should you buy?",
+   "sub": "水上运动",
+   "head": "inflatable water park",
+   "rivals": [
+    "Wibit",
+    "Aquaglide"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how thick should a sleeping pad be",
+   "sub": "户外与家居",
+   "head": "self inflating mat",
+   "rivals": [
+    "Therm-a-Rest",
+    "Sea to Summit"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "drop stitch vs foam mat — which one should you buy?",
+   "sub": "户外与家居",
+   "head": "self inflating mat",
+   "rivals": [
+    "Therm-a-Rest",
+    "Sea to Summit"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how much does a bounce house cost",
+   "sub": "娱乐设施",
+   "head": "bounce house",
+   "rivals": [
+    "AirTrack Factory",
+    "Airquee"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what pressure can a pipe plug hold",
+   "sub": "密封与封堵",
+   "head": "pipe plug",
+   "rivals": [
+    "Vetter",
+    "Petersen Products",
+    "Cherne"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how to plug a pipe temporarily",
+   "sub": "密封与封堵",
+   "head": "pipe plug",
+   "rivals": [
+    "Vetter",
+    "Petersen Products",
+    "Cherne"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "inflatable vs mechanical pipe plug — which one should you buy?",
+   "sub": "密封与封堵",
+   "head": "pipe plug",
+   "rivals": [
+    "Vetter",
+    "Petersen Products",
+    "Cherne"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how fast does an evacuation slide deploy",
+   "sub": "航空",
+   "head": "aircraft evacuation slide",
+   "rivals": [
+    "Collins Aerospace",
+    "Safran"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how long can water be stored in a bladder",
+   "sub": "储存与容器",
+   "head": "flexible water tank",
+   "rivals": [
+    "Husky Portable",
+    "Fuel Bladder Ltd",
+    "SEI Industries"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "are fuel bladders safe",
+   "sub": "储存与容器",
+   "head": "flexible water tank",
+   "rivals": [
+    "Husky Portable",
+    "Fuel Bladder Ltd",
+    "SEI Industries"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "pillow tank vs onion tank — which one should you buy?",
+   "sub": "储存与容器",
+   "head": "flexible water tank",
+   "rivals": [
+    "Husky Portable",
+    "Fuel Bladder Ltd",
+    "SEI Industries"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "bladder vs rigid tank — which one should you buy?",
+   "sub": "储存与容器",
+   "head": "flexible water tank",
+   "rivals": [
+    "Husky Portable",
+    "Fuel Bladder Ltd",
+    "SEI Industries"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how many dunnage bags per container",
+   "sub": "物流与包装",
+   "head": "dunnage bag",
+   "rivals": [
+    "Stopak",
+    "Cordstrap"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "dunnage bag vs airbag — which one should you buy?",
+   "sub": "物流与包装",
+   "head": "dunnage bag",
+   "rivals": [
+    "Stopak",
+    "Cordstrap"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what is drop stitch fabric",
+   "sub": "膜材",
+   "head": "drop stitch fabric",
+   "rivals": [
+    "Zhejiang MSD",
+    "Shanghai MSD",
+    "Shanghai Asianen"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "how is drop stitch fabric made",
+   "sub": "膜材",
+   "head": "drop stitch fabric",
+   "rivals": [
+    "Zhejiang MSD",
+    "Shanghai MSD",
+    "Shanghai Asianen"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "what thickness drop stitch fabric",
+   "sub": "膜材",
+   "head": "drop stitch fabric",
+   "rivals": [
+    "Zhejiang MSD",
+    "Shanghai MSD",
+    "Shanghai Asianen"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "PVC vs TPU drop stitch fabric — which one should you buy?",
+   "sub": "膜材",
+   "head": "drop stitch fabric",
+   "rivals": [
+    "Zhejiang MSD",
+    "Shanghai MSD",
+    "Shanghai Asianen"
+   ],
+   "status": "todo"
+  },
+  {
+   "q": "woven vs knitted drop stitch fabric — which one should you buy?",
+   "sub": "膜材",
+   "head": "drop stitch fabric",
+   "rivals": [
+    "Zhejiang MSD",
+    "Shanghai MSD",
+    "Shanghai Asianen"
+   ],
+   "status": "todo"
+  }
+ ]
+}

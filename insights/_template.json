@@ -1,0 +1,11 @@
+{
+  "title": "标题即问题，60 字符内",
+  "desc": "70–160 字符，摘要即答案",
+  "keywords": "取自产品体系/seo 的问题式长尾词",
+  "question": "本文回答的那一个问题",
+  "answer": "第一段直接给答案。两到三句，可被独立引用。",
+  "sections": [{"h": "小标题", "body": "正文段落"}],
+  "faq": [{"q": "相关问句", "a": "第一句直接给答案"}],
+  "sources": [{"label": "来源名", "url": "https://..."}],
+  "related": ["compare/drop-stitch-vs-air-beam"]
+}
