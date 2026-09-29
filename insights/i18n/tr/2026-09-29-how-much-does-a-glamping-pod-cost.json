@@ -1,0 +1,38 @@
+{
+  "title": "Glamping Pod Ne Kadar?",
+  "desc": "Glamping pod fiyatı yapı tipine, kumaşa, yalıtıma ve iç donanıma bağlıdır. Maliyeti neyin belirlediğini ve teklifte neye bakmanız gerektiğini anlatıyoruz.",
+  "question": "Glamping pod ne kadar?",
+  "answer": "Tek bir fiyat yoktur: glamping pod maliyetini yapı tipi, membran malzemesi, yalıtım ve iç donanım belirler; benzer görünen pod'lar için verilen teklifler çok farklı olabilir. Burada fiyat rakamı yayımlamıyoruz, çünkü denetlenmiş ve karşılaştırılabilir fiyat verimiz yok. Güvenle karşılaştırılabilecek olan, her teklifin neleri kapsadığı ve pod'un satın alındıktan sonraki sahip olma maliyetidir.",
+  "sections": [
+    {
+      "h": "Glamping pod fiyatını ne belirler",
+      "body": "Fiyatı en çok dört unsur etkiler: yapı tipi, membran ve kaplaması, yalıtım ve iklimlendirme paketi ile iç donanım. Sert kabuklu bir pod (ahşap, fiberglas veya çelik) çoğunlukla malzeme ve fabrika işçiliği üzerinden fiyatlanır. Şişirilebilir bir pod, yani bir şişme çadır, kumaş, kaynaklı veya yapıştırılmış dikişler ve duvarların yapılış biçimi üzerinden fiyatlanır. Bir drop-stitch duvarda on binlerce eşit uzunlukta iplik iki kumaş katmanını birbirine bağlar; böylece şişirilmiş duvar gerçek kalınlığa sahip düz ve rijit bir panele dönüşür. Bu, tek katmanlı bir membranın ihtiyaç duymadığı bir üretim adımıdır ve tekliflere yansır. Karşılığında bu tasarım, air-beam yapıdaki birkaç büyük taşıyıcı tüpü gerektirmez."
+    },
+    {
+      "h": "Sert veya prefabrik pod ne zaman daha iyi bir alımdır",
+      "body": "Sert kabuklu bir pod ya da prefabrik kabin, yıllarca aynı arsada kalacaksa, olağan bir yapı ruhsatı sürecinden geçmesi gerekiyorsa veya tam bir banyo ve odun sobası gibi ağır sabit donanımı taşıyacaksa genellikle daha iyi seçimdir. Şişirilebilir pod, birimin taşınması, sezonlar arasında düz katlanarak depolanması, küçük hacimde sevk edilmesi ya da küçük bir ekiple hızlı kurulması gereken yerlerde maliyetini karşılar. Nakliye hacmi ve elleçleme, teslim maliyetinin gerçek bir parçasıdır; bu yüzden fabrika çıkış fiyatını değil, sahanıza teslim fiyatı karşılaştırın."
+    },
+    {
+      "h": "Toplamları karşılaştırmadan önce teklifte nelere bakmalı",
+      "body": "İki teklif ancak aynı kalemleri sıralıyorsa karşılaştırılabilir. Fiyata pompa veya blower, tamir kiti, zemine ankraj, zemin sistemi, yalıtım katmanı, kapı ve pencereler, elektrik hazırlığı ve mobilyanın dahil olup olmadığını kontrol edin. Hangi kumaş ve kaplamanın kullanıldığını sorun, kumaş ve dikiş test raporlarını isteyin. Tanda'nın yapıları için henüz üçüncü taraf test verisi yoktur; belgeler oluşana kadar dayanım, basınç veya kullanım ömrü rakamı vermez. Test raporu olmadan bu tür rakamlar veren her tedarikçiye aynı temkinle yaklaşın."
+    },
+    {
+      "h": "Satın aldıktan sonra sahip olma maliyeti",
+      "body": "Satın alma fiyatı maliyetin yalnızca bir parçasıdır. Şişirilebilir membranlar delinebilir ve onarım gerektirir. Kumaş güneşe ve aşınmaya maruz kalır; bu nedenle dış membranın kendi takvimine göre değiştirilmesi gerekebilir. Isıtma ve soğutma yalıtıma bağlıdır ve alıntılayabileceğimiz üçüncü taraf ısıl verimiz yoktur. Garanti koşullarını yazılı olarak, onarım prosedürünü ve yedek membranların ayrıca satılıp satılmadığını isteyin. Bu kalemler toplam sahip olma maliyetini çoğu zaman teklifteki başlık fiyatından daha fazla belirler."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Şişirilebilir glamping pod sert olandan daha ucuz mudur?",
+      "a": "Kendiliğinden değildir. Şişirilebilir pod küçük hacimde paketlendiği için nakliye ve depolama maliyetini düşürebilir, ancak kumaş, dikişler ve hava sistemi fiyata dahildir; bu yüzden karşılaştırma sahanıza, adedinize ve pod'un ne kadar süre yerinde kalacağına bağlıdır. Fabrika çıkış fiyatını değil, teslim fiyatını ve kullanım ömrü boyunca maliyeti karşılaştırın."
+    },
+    {
+      "q": "Glamping pod teklifinde genellikle neler dışarıda bırakılır?",
+      "a": "En sık zemine ankraj, pompa veya blower, yalıtım yükseltmeleri, elektrik hazırlığı, mobilya ve sahanıza nakliye dışarıda bırakılır. İki teklifi aynı kapsamda karşılaştırabilmek için kalem kalem bir liste isteyin."
+    },
+    {
+      "q": "Glamping pod fiyatları neden bu kadar çok değişiyor?",
+      "a": "Çünkü benzer görünen pod'lar yapı tipi, kumaş ve kaplama, yalıtım ve donanım açısından farklı olabilir ve satıcılar fiyata farklı kalemleri dahil eder. Kumaş ve dikişler için test raporu yoksa daha düşük bir fiyat, sizin göremediğiniz daha düşük bir spesifikasyonu yansıtıyor olabilir."
+    }
+  ]
+}

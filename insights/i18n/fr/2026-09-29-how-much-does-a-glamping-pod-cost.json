@@ -1,0 +1,38 @@
+{
+  "title": "Combien coûte un pod de glamping ?",
+  "desc": "Le prix d'un pod de glamping dépend du type de structure, du tissu, de l'isolation et des aménagements. Ce qui pèse sur le coût et quoi vérifier dans un devis.",
+  "question": "Combien coûte un pod de glamping ?",
+  "answer": "Il n'existe pas de prix unique : le coût d'un pod de glamping dépend du type de structure, du matériau de la membrane, de l'isolation et de l'aménagement intérieur, et les devis pour des pods d'apparence similaire peuvent différer fortement. Nous ne publions pas de chiffres ici, faute de données de prix vérifiées et comparables. Ce que l'on peut comparer de façon fiable, c'est ce que contient chaque devis et ce que coûte le pod une fois acheté.",
+  "sections": [
+    {
+      "h": "Ce qui fixe le prix d'un pod de glamping",
+      "body": "Quatre éléments pèsent plus que les autres : le type de structure, la membrane et son enduction, l'isolation avec le dispositif climatique, et l'aménagement intérieur. Un pod à coque rigide (bois, fibre de verre ou acier) est chiffré surtout sur les matériaux et la main-d'œuvre d'usine. Un pod gonflable, ou tente gonflable, est chiffré sur le tissu, les soudures ou collages, et la conception des parois. Dans une paroi drop-stitch, des dizaines de milliers de fils de même longueur relient deux couches de tissu, si bien que la paroi gonflée devient un panneau plat et rigide qui a une vraie épaisseur. C'est une étape de fabrication dont une membrane monocouche n'a pas besoin, et elle se retrouve dans le devis. En contrepartie, la conception évite les quelques gros boudins porteurs d'une structure air-beam."
+    },
+    {
+      "h": "Quand un pod rigide ou préfabriqué est le meilleur achat",
+      "body": "Un pod à coque rigide ou une cabane préfabriquée est en général le meilleur choix quand il reste des années au même emplacement, doit suivre une procédure d'autorisation classique ou porter des équipements fixes lourds comme une salle de bains complète et un poêle à bois. Un pod gonflable justifie son coût là où l'unité doit être déplacée, stockée à plat entre les saisons, expédiée en petit volume ou montée rapidement par une petite équipe. Le volume de fret et la manutention font partie du coût réel rendu sur site : comparez donc le prix livré chez vous, et non le prix départ usine."
+    },
+    {
+      "h": "Ce qu'il faut vérifier dans un devis avant de comparer les totaux",
+      "body": "Deux devis ne sont comparables que s'ils listent les mêmes éléments. Vérifiez si le prix inclut la pompe ou le ventilateur, un kit de réparation, l'ancrage au sol, le plancher, la couche d'isolation, les portes et fenêtres, la préparation électrique et le mobilier. Demandez quel tissu et quelle enduction sont utilisés, et réclamez les rapports d'essai du tissu et des coutures. Tanda n'a pas encore obtenu de données d'essai de tiers pour ses structures et ne donne pas de chiffres de résistance, de pression ou de durée de vie tant qu'il n'existe pas de documents. Appliquez la même prudence à tout fournisseur qui avance de tels chiffres sans rapport d'essai."
+    },
+    {
+      "h": "Ce que coûte la possession après l'achat",
+      "body": "Le prix d'achat n'est qu'une partie du coût. Les membranes gonflables peuvent être percées et doivent être réparées. Le tissu est exposé au soleil et à l'abrasion, si bien que la membrane extérieure peut devoir être remplacée selon son propre calendrier. Le chauffage et le refroidissement dépendent de l'isolation, et nous n'avons pas de données thermiques de tiers à citer. Demandez les conditions de garantie par écrit, la procédure de réparation, et si les membranes de remplacement se vendent séparément. Ces points décident souvent du coût total de possession plus que le prix affiché."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Un pod de glamping gonflable est-il moins cher qu'un pod rigide ?",
+      "a": "Pas automatiquement. Un pod gonflable peut réduire les coûts de fret et de stockage parce qu'il se replie en petit volume, mais le tissu, les coutures et le système d'air sont inclus dans le prix, et la comparaison dépend donc de votre site, de la quantité et de la durée d'installation. Comparez le prix livré et les coûts sur la durée de vie, pas le prix départ usine."
+    },
+    {
+      "q": "Qu'est-ce qui manque souvent dans un devis de pod de glamping ?",
+      "a": "L'ancrage au sol, la pompe ou le ventilateur, les options d'isolation, la préparation électrique, le mobilier et le fret jusqu'à votre site sont les éléments le plus souvent absents. Demandez une liste poste par poste pour comparer deux devis sur le même périmètre."
+    },
+    {
+      "q": "Pourquoi les prix des pods de glamping varient-ils autant ?",
+      "a": "Parce que des pods d'apparence similaire peuvent différer par le type de structure, le tissu et l'enduction, l'isolation et l'aménagement, et parce que les vendeurs n'incluent pas les mêmes éléments dans le prix. Sans rapports d'essai du tissu et des coutures, un prix plus bas peut refléter une spécification inférieure que vous ne voyez pas."
+    }
+  ]
+}

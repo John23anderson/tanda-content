@@ -1,0 +1,38 @@
+{
+  "title": "Ile kosztuje domek glampingowy typu pod?",
+  "desc": "Cena domku glampingowego zależy od typu konstrukcji, tkaniny, izolacji i wyposażenia. Co decyduje o koszcie i co sprawdzić w ofercie przed porównaniem.",
+  "question": "Ile kosztuje domek glampingowy typu pod?",
+  "answer": "Jednej ceny nie ma: koszt domku glampingowego wyznaczają typ konstrukcji, materiał membrany, izolacja i wyposażenie wnętrza, a oferty na podobnie wyglądające domki mogą się bardzo różnić. Nie podajemy tu liczb, ponieważ nie mamy zweryfikowanych, porównywalnych danych cenowych. Rzetelnie można porównać to, co obejmuje każda oferta, oraz to, ile kosztuje utrzymanie domku po zakupie.",
+  "sections": [
+    {
+      "h": "Co decyduje o cenie domku glampingowego",
+      "body": "Cztery czynniki wpływają na cenę najmocniej: typ konstrukcji, membrana z powłoką, pakiet izolacji i klimatyzacji oraz wyposażenie wnętrza. Domek z twardą powłoką (drewno, włókno szklane lub stal) wycenia się głównie według materiałów i robocizny fabrycznej. Domek nadmuchiwany, czyli namiot nadmuchiwany, wycenia się według tkaniny, zgrzewanych lub klejonych szwów i budowy ścian. W ścianie drop-stitch dziesiątki tysięcy nici o równej długości łączą dwie warstwy tkaniny, dlatego napompowana ściana staje się płaskim, sztywnym panelem o rzeczywistej grubości. To etap produkcji, którego nie potrzebuje jednowarstwowa membrana, i widać go w ofercie. W zamian konstrukcja unika kilku dużych nośnych rur, typowych dla struktury air-beam."
+    },
+    {
+      "h": "Kiedy domek sztywny lub prefabrykowany to lepszy zakup",
+      "body": "Domek z twardą powłoką lub prefabrykowana kabina jest zwykle lepszym wyborem, gdy stoi latami w jednym miejscu, musi przejść zwykłą procedurę pozwoleń budowlanych albo ma udźwignąć ciężkie stałe wyposażenie, takie jak pełna łazienka i piec na drewno. Domek nadmuchiwany zwraca swój koszt tam, gdzie jednostkę trzeba przenosić, przechowywać w złożeniu między sezonami, wysyłać w małej objętości lub szybko stawiać małym zespołem. Objętość frachtu i przeładunek są realną częścią kosztu dostawy, więc porównuj cenę z dostawą na miejsce, a nie cenę z fabryki."
+    },
+    {
+      "h": "Co sprawdzić w ofercie, zanim porównasz sumy",
+      "body": "Dwie oferty są porównywalne tylko wtedy, gdy wymieniają to samo. Sprawdź, czy w cenie są pompa lub dmuchawa, zestaw naprawczy, kotwienie do gruntu, system podłogi, warstwa izolacji, drzwi i okna, przygotowanie instalacji elektrycznej oraz meble. Zapytaj, jaka tkanina i powłoka zostały użyte, i poproś o raporty z badań tkaniny i szwów. Tanda nie ma jeszcze danych z badań niezależnych laboratoriów dla swoich konstrukcji i nie podaje wartości wytrzymałości, ciśnienia ani trwałości, dopóki nie powstaną dokumenty. Z taką samą ostrożnością traktuj każdego dostawcę, który podaje takie liczby bez raportu z badań."
+    },
+    {
+      "h": "Ile kosztuje posiadanie po zakupie",
+      "body": "Cena zakupu to tylko część kosztu. Membrany nadmuchiwane można przebić i trzeba je naprawiać. Tkanina jest narażona na słońce i ścieranie, więc zewnętrzną membranę może być trzeba wymienić według jej własnego harmonogramu. Ogrzewanie i chłodzenie zależą od izolacji, a niezależnych danych cieplnych nie mamy do przytoczenia. Poproś o warunki gwarancji na piśmie, procedurę naprawy oraz informację, czy zapasowe membrany są sprzedawane osobno. Te punkty często decydują o łącznym koszcie posiadania bardziej niż cena z nagłówka oferty."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy nadmuchiwany domek glampingowy jest tańszy od sztywnego?",
+      "a": "Niekoniecznie. Domek nadmuchiwany może obniżyć koszty frachtu i przechowywania, bo po złożeniu zajmuje mało miejsca, ale tkanina, szwy i układ powietrzny są wliczone w cenę, więc porównanie zależy od Twojego miejsca, liczby sztuk i czasu, przez jaki domek stoi. Porównuj cenę z dostawą i koszty w całym okresie użytkowania, a nie cenę z fabryki."
+    },
+    {
+      "q": "Czego zwykle brakuje w ofercie na domek glampingowy?",
+      "a": "Najczęściej brakuje kotwienia do gruntu, pompy lub dmuchawy, dodatkowej izolacji, przygotowania instalacji elektrycznej, mebli oraz frachtu na miejsce. Poproś o listę pozycja po pozycji, aby porównać dwie oferty w tym samym zakresie."
+    },
+    {
+      "q": "Dlaczego ceny domków glampingowych tak bardzo się różnią?",
+      "a": "Ponieważ podobnie wyglądające domki mogą się różnić typem konstrukcji, tkaniną i powłoką, izolacją i wyposażeniem, a sprzedawcy wliczają w cenę różne pozycje. Bez raportów z badań tkaniny i szwów niższa cena może oznaczać niższą specyfikację, której nie widać."
+    }
+  ]
+}

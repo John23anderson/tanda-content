@@ -1,0 +1,38 @@
+{
+  "title": "Was kostet ein Glamping-Pod?",
+  "desc": "Der Preis eines Glamping-Pods hängt von Bauart, Gewebe, Dämmung und Ausbau ab. Was die Kosten treibt und was Sie im Angebot prüfen sollten.",
+  "question": "Was kostet ein Glamping-Pod?",
+  "answer": "Einen einheitlichen Preis gibt es nicht: Die Kosten eines Glamping-Pods werden von Bauart, Membranmaterial, Dämmung und Innenausbau bestimmt, und Angebote für ähnlich aussehende Pods können stark voneinander abweichen. Preisangaben veröffentlichen wir hier nicht, weil uns keine geprüften, vergleichbaren Preisdaten vorliegen. Verlässlich vergleichen lässt sich, was jedes Angebot enthält und was der Pod nach dem Kauf im Betrieb kostet.",
+  "sections": [
+    {
+      "h": "Was den Preis eines Glamping-Pods bestimmt",
+      "body": "Vier Faktoren bewegen den Preis am stärksten: die Bauart, die Membran samt Beschichtung, das Dämm- und Klimapaket und der Innenausbau. Ein Pod mit starrer Schale (Holz, GFK oder Stahl) wird vor allem nach Material und Fertigungsaufwand kalkuliert. Ein aufblasbarer Pod, also ein aufblasbares Zelt, wird nach Gewebe, verschweißten oder verklebten Nähten und dem Wandaufbau kalkuliert. In einer drop-stitch-Wand verbinden Zehntausende gleich lange Fäden zwei Gewebelagen, sodass die aufgeblasene Wand zu einer ebenen, steifen Platte mit echter Dicke wird. Das ist ein Fertigungsschritt, den eine einlagige Membran nicht braucht, und er schlägt sich im Angebot nieder. Dafür kommt die Bauweise ohne die wenigen großen tragenden Schläuche einer air-beam-Struktur aus."
+    },
+    {
+      "h": "Wann ein starrer oder vorgefertigter Pod die bessere Wahl ist",
+      "body": "Ein Pod mit starrer Schale oder eine vorgefertigte Kabine ist meist die bessere Wahl, wenn er jahrelang am selben Standort steht, einen herkömmlichen Genehmigungsweg durchlaufen muss oder schwere feste Einbauten wie ein komplettes Bad und einen Holzofen tragen soll. Ein aufblasbarer Pod rechnet sich dort, wo die Einheit versetzt, zwischen den Saisons flach gelagert, in kleinem Volumen verschickt oder von einem kleinen Team schnell aufgebaut werden muss. Frachtvolumen und Handling gehören zu den tatsächlichen Kosten frei Haus, vergleichen Sie also den Preis geliefert bis zu Ihrem Standort und nicht ab Werk."
+    },
+    {
+      "h": "Was Sie im Angebot prüfen sollten, bevor Sie Summen vergleichen",
+      "body": "Zwei Angebote sind nur vergleichbar, wenn sie dasselbe auflisten. Prüfen Sie, ob Pumpe oder Gebläse, Reparaturset, Bodenverankerung, Bodenaufbau, Dämmschicht, Türen und Fenster, Elektrovorbereitung und Möbel im Preis enthalten sind. Fragen Sie, welches Gewebe und welche Beschichtung verwendet werden, und verlangen Sie die Prüfberichte zu Gewebe und Nähten. Tanda liegen bislang keine Prüfdaten unabhängiger Dritter für seine Strukturen vor und nennt Festigkeits-, Druck- und Lebensdauerwerte erst, wenn Dokumente existieren. Bei jedem Anbieter, der solche Zahlen ohne Prüfbericht nennt, ist dieselbe Vorsicht angebracht."
+    },
+    {
+      "h": "Was der Besitz nach dem Kauf kostet",
+      "body": "Der Kaufpreis ist nur ein Teil der Kosten. Aufblasbare Membranen können durchstochen werden und müssen repariert werden. Das Gewebe ist Sonne und Abrieb ausgesetzt, sodass die äußere Membran nach eigenem Zeitplan ersetzt werden muss. Heizen und Kühlen hängen von der Dämmung ab, und unabhängige Wärmedaten können wir nicht nennen. Verlangen Sie schriftliche Garantiebedingungen, das Reparaturverfahren und die Auskunft, ob Ersatzmembranen einzeln erhältlich sind. Diese Punkte entscheiden über die Gesamtkosten oft stärker als der Preis im Angebotskopf."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein aufblasbarer Glamping-Pod günstiger als ein starrer?",
+      "a": "Nicht automatisch. Ein aufblasbarer Pod kann Fracht- und Lagerkosten senken, weil er klein verpackt wird, aber Gewebe, Nähte und Luftsystem sind eingepreist, sodass der Vergleich von Standort, Stückzahl und Standzeit abhängt. Vergleichen Sie den Preis geliefert und die Kosten über die Nutzungsdauer, nicht den Preis ab Werk."
+    },
+    {
+      "q": "Was fehlt in einem Angebot für einen Glamping-Pod meistens?",
+      "a": "Am häufigsten fehlen die Bodenverankerung, Pumpe oder Gebläse, Dämmungs-Upgrades, Elektrovorbereitung, Möbel und die Fracht bis zu Ihrem Standort. Verlangen Sie eine Positionsliste, damit sich zwei Angebote im gleichen Umfang vergleichen lassen."
+    },
+    {
+      "q": "Warum unterscheiden sich die Preise für Glamping-Pods so stark?",
+      "a": "Weil sich ähnlich aussehende Pods in Bauart, Gewebe und Beschichtung, Dämmung und Ausbau unterscheiden können und Anbieter unterschiedliche Positionen in den Preis einrechnen. Ohne Prüfberichte zu Gewebe und Nähten kann ein niedrigerer Preis eine niedrigere Spezifikation widerspiegeln, die Sie nicht sehen."
+    }
+  ]
+}

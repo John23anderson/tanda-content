@@ -1,0 +1,38 @@
+{
+  "title": "¿Cuánto cuesta un pod de glamping?",
+  "desc": "El precio de un pod de glamping depende del tipo de estructura, el tejido, el aislamiento y el equipamiento. Qué determina el coste y qué revisar en un presupuesto.",
+  "question": "¿Cuánto cuesta un pod de glamping?",
+  "answer": "No existe un precio único: el coste de un pod de glamping lo fijan el tipo de estructura, el material de la membrana, el aislamiento y el equipamiento interior, y los presupuestos de pods de aspecto parecido pueden diferir mucho. Aquí no publicamos cifras de precio porque no disponemos de datos de precios auditados y comparables. Lo que sí se puede comparar con fiabilidad es qué incluye cada presupuesto y cuánto cuesta mantener el pod después de la compra.",
+  "sections": [
+    {
+      "h": "Qué determina el precio de un pod de glamping",
+      "body": "Cuatro factores mueven el precio más que ningún otro: el tipo de estructura, la membrana y su recubrimiento, el paquete de aislamiento y climatización, y el equipamiento interior. Un pod de carcasa rígida (madera, fibra de vidrio o acero) se valora sobre todo por materiales y mano de obra de fábrica. Un pod inflable (hinchable en España), o carpa inflable, se valora por el tejido, las costuras soldadas o adhesivas y la construcción de las paredes. En una pared drop-stitch, decenas de miles de hilos de igual longitud unen dos capas de tejido, de modo que la pared inflada se convierte en un panel plano y rígido con grosor real. Es un paso de fabricación que una membrana de una sola capa no necesita, y se nota en el presupuesto. A cambio, el diseño evita los pocos tubos grandes portantes de una estructura air-beam."
+    },
+    {
+      "h": "Cuándo un pod rígido o prefabricado es la mejor compra",
+      "body": "Un pod de carcasa rígida o una cabaña prefabricada suele ser la mejor opción cuando permanece años en la misma parcela, debe seguir el trámite habitual de licencias o tiene que soportar equipamiento fijo pesado, como un baño completo y una estufa de leña. Un pod inflable justifica su coste cuando la unidad debe trasladarse, almacenarse plegada entre temporadas, enviarse en poco volumen o montarse rápido con un equipo pequeño. El volumen de flete y la manipulación forman parte del coste real puesto en destino, así que compare el precio entregado en su sitio y no el precio en fábrica."
+    },
+    {
+      "h": "Qué revisar en un presupuesto antes de comparar totales",
+      "body": "Dos presupuestos solo son comparables si enumeran lo mismo. Compruebe si el precio incluye la bomba o el soplador, un kit de reparación, el anclaje al suelo, el sistema de suelo, la capa de aislamiento, puertas y ventanas, la preparación eléctrica y el mobiliario. Pregunte qué tejido y qué recubrimiento se usan y pida los informes de ensayo del tejido y de las costuras. Tanda todavía no ha obtenido datos de ensayo de terceros para sus estructuras y no da cifras de resistencia, presión ni vida útil hasta que existan documentos. Trate con la misma cautela a cualquier proveedor que dé esas cifras sin informe de ensayo."
+    },
+    {
+      "h": "Lo que cuesta tenerlo después de comprarlo",
+      "body": "El precio de compra es solo una parte del coste. Las membranas inflables pueden pincharse y necesitan reparación. El tejido está expuesto al sol y a la abrasión, por lo que la membrana exterior puede tener que sustituirse según su propio calendario. La calefacción y la refrigeración dependen del aislamiento, y no tenemos datos térmicos de terceros que citar. Pida por escrito las condiciones de garantía, el procedimiento de reparación y si las membranas de repuesto se venden por separado. Estos puntos suelen decidir el coste total de propiedad más que el precio de cabecera."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Es más barato un pod de glamping inflable que uno rígido?",
+      "a": "No necesariamente. Un pod inflable puede reducir los costes de flete y almacenamiento porque se pliega en poco volumen, pero el tejido, las costuras y el sistema de aire están incluidos en el precio, así que la comparación depende de su sitio, la cantidad y el tiempo que el pod permanezca instalado. Compare el precio entregado y los costes durante toda la vida útil, no el precio en fábrica."
+    },
+    {
+      "q": "¿Qué suele quedar fuera del presupuesto de un pod de glamping?",
+      "a": "El anclaje al suelo, la bomba o el soplador, las mejoras de aislamiento, la preparación eléctrica, el mobiliario y el flete hasta su sitio son lo que más a menudo queda fuera. Pida una lista partida por partida para poder comparar dos presupuestos con el mismo alcance."
+    },
+    {
+      "q": "¿Por qué varían tanto los precios de los pods de glamping?",
+      "a": "Porque pods de aspecto parecido pueden diferir en tipo de estructura, tejido y recubrimiento, aislamiento y equipamiento, y porque los vendedores incluyen cosas distintas en el precio. Sin informes de ensayo del tejido y las costuras, un precio más bajo puede reflejar una especificación inferior que usted no ve."
+    }
+  ]
+}
