@@ -1,0 +1,42 @@
+{
+  "title": "Quanto tempo duram as tendas infláveis?",
+  "desc": "A vida útil de uma tenda inflável depende do revestimento do tecido, dos raios UV, da abrasão, das costuras e do reparo, não de um número fixo de anos. O que se desgasta primeiro.",
+  "question": "Quanto tempo duram as tendas infláveis?",
+  "answer": "Uma tenda inflável dura enquanto o revestimento do tecido, as costuras e as válvulas se mantiverem íntegros, e isso depende da exposição aos raios UV, da abrasão, da forma como é dobrada e armazenada e de os danos serem reparados cedo. O desgaste costuma ser localizado, por isso uma tenda bem fabricada com paredes drop-stitch ou com vigas de ar normalmente é reparada ou recebe nova cobertura, em vez de ser substituída por inteiro. A Tanda não tem dados de ensaio independentes sobre a vida útil e por isso não dá números em anos; peça a qualquer fornecedor relatórios de ensaio de envelhecimento e de revestimento em vez de um número.",
+  "sections": [
+    {
+      "h": "O que se desgasta primeiro",
+      "body": "As primeiras partes a envelhecer são as expostas ao ambiente ou dobradas repetidamente: o revestimento externo do tecido, as costuras onde os painéis são soldados ou colados e as válvulas. O sol e o calor degradam os revestimentos com o tempo, o contacto com o solo e o manuseio desgastam a superfície, e a dobragem submete as mesmas linhas a esforço a cada arrumação. Como a estrutura mantém a forma pela pressão do ar, uma pequena fuga pesa mais cedo do que numa tenda sobre armação rígida. Numa parede drop-stitch, os fios internos ficam entre as duas camadas de tecido, ao abrigo do sol, e é o tecido exterior que recebe a exposição. É aí que a inspeção deve se concentrar."
+    },
+    {
+      "h": "Como o tipo de construção muda o modo de falha",
+      "body": "A vida útil depende de coisas diferentes em cada construção. Uma tenda de vigas de ar (air-beam) apoia a carga em poucos tubos grandes, de modo que o dano num tubo é um incidente estrutural e não um defeito estético. Uma estrutura suportada por ar (tipo Traglufthalle) precisa de um ventilador em funcionamento contínuo, portanto a sua vida prática inclui a fiabilidade da energia e dos ventiladores, e ela esvazia se estes pararem. Uma parede drop-stitch é um painel espesso mantido plano por muitos fios de igual comprimento, de modo que a carga se distribui pela parede em vez de se concentrar em poucos elementos. Como uma parede concreta se comporta após uma perfuração ou uma costura rasgada só os ensaios podem determinar, e a Tanda ainda não tem dados independentes sobre isso."
+    },
+    {
+      "h": "Quando uma tenda com armação é a melhor escolha",
+      "body": "Se o abrigo vai ficar muitas estações no mesmo local, uma tenda com armação costuma ser a compra mais segura. A cobertura de tecido pode ser trocada enquanto a armação de aço ou alumínio continua em serviço, nada precisa ser mantido sob pressão e uma cobertura furada não altera a forma da estrutura. Uma tenda inflável justifica-se onde o abrigo tem de ser deslocado, enviado em pouco volume, guardado dobrado entre usos ou montado depressa por uma equipa pequena. Escolha conforme o uso: a ocupação fixa e prolongada favorece a armação; as reimplantações repetidas favorecem a tenda inflável."
+    },
+    {
+      "h": "Como verificar a alegação de vida útil de um fornecedor",
+      "body": "Peça documentos, não adjetivos. Para tecidos revestidos, os métodos pertinentes incluem a ISO 1421 (resistência à tração e alongamento na rutura), a ISO 2411 (aderência do revestimento) e a ISO 4892-2 (exposição a lâmpadas de arco de xénon). Um relatório de um laboratório independente segundo esses métodos diz mais do que um número de anos declarado. Pergunte também o que a garantia cobre e exclui (UV, abrasão e uso indevido costumam ser excluídos), como as fugas são localizadas e reparadas, se os kits de reparo e o tecido exterior sobressalente são vendidos separadamente e quais são as instruções de armazenamento. Limpar e secar o tecido antes de o guardar é a condição básica para uma longa vida de qualquer membrana revestida."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Uma tenda inflável pode durar anos?",
+      "a": "Pode, mas não existe um número único e honesto, porque a vida útil depende do revestimento do tecido, da exposição a UV e abrasão, do armazenamento e da rapidez com que os danos são reparados. A Tanda não tem dados de ensaio independentes sobre a vida útil e não cita anos; desconfie de fornecedores que o fazem sem relatório de ensaio."
+    },
+    {
+      "q": "Qual é a primeira parte de uma tenda inflável a falhar?",
+      "a": "Normalmente um elemento localizado e não toda a estrutura: o revestimento externo em zonas expostas ao sol ou à abrasão, uma costura ou uma válvula. Por isso, a inspeção regular do tecido exterior, das costuras e das válvulas é o hábito de manutenção mais útil."
+    },
+    {
+      "q": "Uma tenda inflável danificada pode ser reparada?",
+      "a": "Pequenas perfurações e fugas em costuras de tecido revestido costumam poder ser reparadas com o remendo ou o procedimento de colagem do fabricante, mas o procedimento e o kit de reparo devem ser confirmados antes da compra. Pergunte se o tecido exterior pode ser substituído separadamente do resto da estrutura."
+    },
+    {
+      "q": "A garantia diz quanto tempo uma tenda inflável vai durar?",
+      "a": "Não, a garantia indica o que o vendedor assume, não uma vida útil medida. Leia o que ela exclui, como UV, abrasão e uso indevido, e peça relatórios de ensaio de envelhecimento, aderência e tração de um laboratório independente."
+    }
+  ]
+}

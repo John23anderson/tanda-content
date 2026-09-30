@@ -1,0 +1,42 @@
+{
+  "title": "Quelle est la durée de vie d'une tente gonflable ?",
+  "desc": "La durée de vie d'une tente gonflable dépend du revêtement du tissu, des UV, de l'abrasion, des coutures et des réparations, pas d'un nombre d'années fixe. Ce qui s'use en premier.",
+  "question": "Quelle est la durée de vie d'une tente gonflable ?",
+  "answer": "Une tente gonflable dure tant que le revêtement du tissu, les coutures et les valves restent intacts, ce qui dépend de l'exposition aux UV, de l'abrasion, de la façon dont elle est pliée et stockée, et de la rapidité des réparations. L'usure est le plus souvent locale : une tente bien fabriquée à parois drop-stitch ou à boudins est en général réparée ou recouverte plutôt que remplacée en entier. Tanda ne dispose d'aucune donnée d'essai indépendante sur la durée de vie et ne donne donc aucun chiffre en années ; demandez plutôt à tout fournisseur des rapports d'essais de vieillissement et de revêtement.",
+  "sections": [
+    {
+      "h": "Ce qui s'use en premier",
+      "body": "Les premières pièces à vieillir sont celles exposées à l'environnement ou fléchies à répétition : le revêtement extérieur du tissu, les coutures où les panneaux sont soudés ou collés, et les valves. Le soleil et la chaleur dégradent les revêtements avec le temps, le contact avec le sol et la manutention usent la surface, et le pliage sollicite les mêmes lignes à chaque remballage. Comme la structure tient sa forme par la pression d'air, une petite fuite compte plus tôt que sur une tente montée sur ossature rigide. Dans une paroi drop-stitch, les fils internes se trouvent entre les deux couches de tissu, à l'abri du soleil, et c'est le tissu extérieur qui subit l'exposition. C'est là que l'inspection doit se concentrer."
+    },
+    {
+      "h": "Comment la construction change le mode de défaillance",
+      "body": "La durée de vie dépend de choses différentes selon la construction. Une tente à boudins (air-beam) reporte sa charge sur quelques gros tubes : l'endommagement d'un tube est un incident structurel, pas un défaut esthétique. Une structure à air captif (type Traglufthalle) exige une soufflerie en marche permanente ; sa durée d'usage pratique inclut donc la fiabilité de l'alimentation et des ventilateurs, et elle s'affaisse s'ils s'arrêtent. Une paroi drop-stitch est un panneau épais maintenu plat par de nombreux fils de même longueur, si bien que la charge se répartit sur la paroi au lieu de se concentrer sur quelques éléments. Le comportement d'une paroi donnée après une perforation ou une couture déchirée ne peut être établi que par des essais, et Tanda n'a pas encore de données indépendantes à ce sujet."
+    },
+    {
+      "h": "Quand une tente à ossature est le meilleur choix",
+      "body": "Si un abri reste plusieurs saisons sur le même site, une tente à ossature est souvent l'achat le plus sûr. Sa toiture en tissu peut être remplacée tandis que l'ossature en acier ou en aluminium continue de servir, rien n'a à être maintenu sous pression, et une housse percée ne modifie pas la forme de la structure. Une tente gonflable trouve sa place là où l'abri doit être déplacé, expédié en faible volume, stocké à plat entre deux usages ou monté rapidement par une petite équipe. Choisissez selon l'usage : une occupation fixe de longue durée favorise l'ossature, des redéploiements répétés favorisent le gonflable."
+    },
+    {
+      "h": "Comment vérifier l'affirmation d'un fournisseur sur la durée de vie",
+      "body": "Demandez des documents, pas des adjectifs. Pour les tissus enduits, les méthodes pertinentes comprennent l'ISO 1421 (résistance à la traction et allongement à la rupture), l'ISO 2411 (adhérence du revêtement) et l'ISO 4892-2 (exposition aux lampes à arc au xénon). Un rapport d'un laboratoire indépendant selon ces méthodes en dit plus qu'un nombre d'années affiché. Demandez aussi ce que la garantie couvre et exclut (UV, abrasion et mauvais usage sont souvent exclus), comment les fuites sont repérées et réparées, si des kits de réparation et du tissu extérieur de rechange sont vendus séparément, et quelles sont les consignes de stockage. Nettoyer et sécher le tissu avant de le ranger est la condition de base d'une longue vie pour toute membrane enduite."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Une tente gonflable peut-elle durer des années ?",
+      "a": "Oui, mais il n'existe pas de chiffre unique honnête, car la durée de vie dépend du revêtement, de l'exposition aux UV et à l'abrasion, du stockage et de la rapidité des réparations. Tanda n'a pas de données d'essai indépendantes sur la durée de vie et ne cite pas d'années ; méfiez-vous des fournisseurs qui le font sans rapport d'essai."
+    },
+    {
+      "q": "Quelle est la première partie d'une tente gonflable à lâcher ?",
+      "a": "En général un élément local plutôt que toute la structure : le revêtement extérieur aux endroits exposés au soleil ou à l'abrasion, une couture ou une valve. C'est pourquoi l'inspection régulière du tissu extérieur, des coutures et des valves est la meilleure habitude d'entretien."
+    },
+    {
+      "q": "Peut-on réparer une tente gonflable endommagée ?",
+      "a": "Les petites perforations et fuites de coutures d'un tissu enduit se réparent en général avec la rustine ou le collage prévus par le fabricant, mais la procédure et le kit de réparation doivent être confirmés avant l'achat. Demandez si le tissu extérieur peut être remplacé séparément du reste de la structure."
+    },
+    {
+      "q": "La garantie indique-t-elle combien de temps durera une tente gonflable ?",
+      "a": "Non, une garantie précise ce que le vendeur prend en charge, pas une durée de vie mesurée. Lisez ce qu'elle exclut, comme les UV, l'abrasion et le mauvais usage, et demandez des rapports d'essais de vieillissement, d'adhérence et de traction d'un laboratoire indépendant."
+    }
+  ]
+}

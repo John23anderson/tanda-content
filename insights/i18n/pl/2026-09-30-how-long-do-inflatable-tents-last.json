@@ -1,0 +1,42 @@
+{
+  "title": "Jak długo służą namioty pneumatyczne?",
+  "desc": "Żywotność namiotu pneumatycznego zależy od powłoki tkaniny, UV, ścierania, szwów i napraw, a nie od stałej liczby lat. Co zużywa się najpierw i o co pytać dostawcę.",
+  "question": "Jak długo służą namioty pneumatyczne (dmuchane)?",
+  "answer": "Namiot pneumatyczny służy tak długo, jak długo nienaruszone pozostają powłoka tkaniny, szwy i zawory, a to zależy od ekspozycji na UV, ścierania, sposobu składania i przechowywania oraz od tego, czy uszkodzenia są naprawiane wcześnie. Zużycie jest zwykle lokalne, dlatego dobrze wykonany namiot ze ścianami drop-stitch lub z belkami powietrznymi zazwyczaj się naprawia albo zmienia mu pokrycie, zamiast wymieniać go w całości. Tanda nie ma niezależnych danych z badań dotyczących żywotności, więc nie podaje liczby lat; zamiast liczby poproś każdego dostawcę o raporty z badań odporności na warunki atmosferyczne i powłoki.",
+  "sections": [
+    {
+      "h": "Co zużywa się najpierw",
+      "body": "Najpierw starzeją się elementy narażone na otoczenie lub stale zginane: zewnętrzna powłoka tkaniny, szwy, w których panele są zgrzewane lub klejone, oraz zawory. Słońce i ciepło z czasem niszczą powłoki, kontakt z gruntem i obsługa ścierają powierzchnię, a składanie za każdym razem obciąża te same linie. Ponieważ konstrukcja utrzymuje kształt dzięki ciśnieniu powietrza, drobny wyciek ma znaczenie wcześniej niż w namiocie na sztywnym stelażu. W ścianie drop-stitch wewnętrzne nici leżą między dwiema warstwami tkaniny, osłonięte przed słońcem, a ekspozycję przejmuje tkanina zewnętrzna. Na niej powinna skupiać się kontrola."
+    },
+    {
+      "h": "Jak rodzaj konstrukcji zmienia sposób awarii",
+      "body": "W każdej konstrukcji żywotność zależy od czego innego. Namiot z belkami powietrznymi (air-beam) przenosi obciążenie na kilka dużych rur, więc uszkodzenie jednej z nich to awaria konstrukcyjna, a nie defekt wizualny. Hala pneumatyczna nośna (typu Traglufthalle) wymaga ciągłej pracy dmuchawy, więc jej praktyczna trwałość obejmuje niezawodność zasilania i wentylatorów, a po ich zatrzymaniu opada. Ściana drop-stitch to gruby panel utrzymywany w płaszczyźnie przez wiele nici o jednakowej długości, więc obciążenie rozkłada się na całą ścianę, a nie koncentruje na kilku elementach. Jak zachowuje się konkretna ściana po przekłuciu lub rozerwaniu szwu, można ustalić tylko badaniami, a Tanda nie ma jeszcze na ten temat niezależnych danych."
+    },
+    {
+      "h": "Kiedy lepszy jest namiot ze stelażem",
+      "body": "Jeśli schronienie ma stać w jednym miejscu przez wiele sezonów, namiot ze stelażem jest często bezpieczniejszym zakupem. Dach z tkaniny można wymienić, podczas gdy stalowy lub aluminiowy stelaż nadal służy, nic nie trzeba utrzymywać pod ciśnieniem, a przebite pokrycie nie zmienia kształtu konstrukcji. Namiot pneumatyczny broni się tam, gdzie schronienie trzeba przenosić, wysyłać w małej objętości, przechowywać w złożeniu między użyciami albo szybko stawiać małym zespołem. Wybieraj według zastosowania: długie, stałe użytkowanie przemawia za stelażem, częste rozstawianie na nowo za namiotem pneumatycznym."
+    },
+    {
+      "h": "Jak zweryfikować deklarację dostawcy o żywotności",
+      "body": "Żądaj dokumentów, a nie przymiotników. Dla tkanin powlekanych istotne metody to ISO 1421 (wytrzymałość na rozciąganie i wydłużenie przy zerwaniu), ISO 2411 (przyczepność powłoki) i ISO 4892-2 (ekspozycja na lampy łukowe ksenonowe). Raport niezależnego laboratorium według tych metod mówi więcej niż deklarowana liczba lat. Zapytaj też, co gwarancja obejmuje, a co wyłącza (UV, ścieranie i niewłaściwe użytkowanie bywają wyłączone), jak lokalizuje się i naprawia wycieki, czy zestawy naprawcze i zapasowa tkanina zewnętrzna są sprzedawane osobno oraz jakie są zasady przechowywania. Czyszczenie i suszenie tkaniny przed spakowaniem to podstawowy warunek długiej służby każdej powlekanej membrany."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy namiot pneumatyczny może służyć latami?",
+      "a": "Może, ale nie istnieje jedna uczciwa liczba, ponieważ żywotność zależy od powłoki tkaniny, ekspozycji na UV i ścieranie, przechowywania oraz szybkości napraw. Tanda nie ma niezależnych danych z badań żywotności i nie podaje lat; z ostrożnością traktuj dostawców, którzy robią to bez raportu z badań."
+    },
+    {
+      "q": "Która część namiotu pneumatycznego zawodzi najpierw?",
+      "a": "Zwykle element lokalny, a nie cała konstrukcja: zewnętrzna powłoka w miejscach narażonych na słońce lub ścieranie, szew albo zawór. Dlatego regularna kontrola tkaniny zewnętrznej, szwów i zaworów to najbardziej użyteczny nawyk konserwacyjny."
+    },
+    {
+      "q": "Czy uszkodzony namiot pneumatyczny można naprawić?",
+      "a": "Małe przekłucia i nieszczelności szwów w tkaninie powlekanej zwykle można naprawić łatką lub klejeniem według procedury producenta, ale procedurę i zestaw naprawczy należy potwierdzić przed zakupem. Zapytaj, czy tkaninę zewnętrzną można wymienić osobno od reszty konstrukcji."
+    },
+    {
+      "q": "Czy gwarancja mówi, jak długo posłuży namiot pneumatyczny?",
+      "a": "Nie, gwarancja określa, co bierze na siebie sprzedawca, a nie zmierzoną żywotność. Przeczytaj, co wyłącza, na przykład UV, ścieranie i niewłaściwe użytkowanie, i poproś o raporty z badań odporności na warunki atmosferyczne, przyczepności i rozciągania z niezależnego laboratorium."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Berapa Lama Tenda Tiup Bisa Bertahan?",
+  "desc": "Umur tenda tiup ditentukan oleh lapisan kain, sinar UV, abrasi, sambungan, dan perbaikan, bukan jumlah tahun yang tetap. Apa yang aus lebih dulu dan apa yang perlu ditanyakan ke pemasok.",
+  "question": "Berapa lama tenda tiup bisa bertahan?",
+  "answer": "Tenda tiup bertahan selama lapisan luar kain, sambungan, dan katupnya tetap utuh, dan hal itu bergantung pada paparan sinar UV, abrasi, cara melipat dan menyimpan, serta apakah kerusakan diperbaiki sejak dini. Keausan umumnya bersifat lokal, sehingga tenda berdinding drop-stitch atau berbalok udara yang dibuat dengan baik biasanya diperbaiki atau diganti penutup luarnya, bukan diganti seluruhnya. Tanda tidak memiliki data uji independen tentang umur pakai, sehingga kami tidak menyebut angka tahun; mintalah kepada pemasok mana pun laporan uji ketahanan cuaca dan lapisan sebagai pengganti angka.",
+  "sections": [
+    {
+      "h": "Apa yang aus lebih dulu",
+      "body": "Bagian yang menua lebih dulu adalah yang terpapar lingkungan atau terus-menerus tertekuk: lapisan luar kain, sambungan tempat panel dilas atau direkatkan, dan katup. Matahari dan panas merusak lapisan seiring waktu, kontak dengan tanah dan penanganan mengikis permukaan, dan pelipatan membebani garis yang sama setiap kali dikemas. Karena struktur menjaga bentuknya dengan tekanan udara, kebocoran kecil menjadi masalah lebih cepat daripada pada tenda berkerangka kaku. Pada dinding drop-stitch, benang bagian dalam berada di antara dua lapis kain, terlindung dari matahari, dan kain luarlah yang menerima paparan. Di situlah pemeriksaan harus difokuskan."
+    },
+    {
+      "h": "Bagaimana konstruksi mengubah cara kegagalan",
+      "body": "Umur pakai bergantung pada hal berbeda di setiap konstruksi. Tenda berbalok udara (air-beam) menumpukan beban pada beberapa tabung besar, sehingga kerusakan satu tabung adalah insiden struktural, bukan cacat kosmetik. Struktur penopang udara (jenis Traglufthalle) membutuhkan blower yang menyala terus-menerus, jadi umur praktisnya mencakup keandalan listrik dan kipas, dan struktur itu kempis bila keduanya berhenti. Dinding drop-stitch adalah panel tebal yang dijaga tetap datar oleh banyak benang berukuran sama, sehingga beban tersebar di seluruh dinding dan tidak terkonsentrasi pada beberapa elemen. Bagaimana perilaku dinding tertentu setelah tertusuk atau sambungan sobek hanya bisa dipastikan lewat pengujian, dan Tanda belum memiliki data independen tentang hal itu."
+    },
+    {
+      "h": "Kapan tenda berkerangka lebih baik",
+      "body": "Jika tempat berlindung akan berada di satu lokasi selama banyak musim, tenda berkerangka sering menjadi pilihan yang lebih aman. Atap kainnya bisa diganti sementara kerangka baja atau aluminium tetap berfungsi, tidak ada yang perlu dijaga bertekanan, dan penutup yang bocor tidak mengubah bentuk struktur. Tenda tiup unggul di tempat yang mengharuskan tempat berlindung dipindahkan, dikirim dalam volume kecil, disimpan terlipat di antara pemakaian, atau didirikan cepat oleh tim kecil. Pilihlah sesuai pemakaian: penghunian tetap jangka panjang condong ke kerangka, penempatan ulang berulang condong ke tenda tiup."
+    },
+    {
+      "h": "Cara menguji klaim umur pakai dari pemasok",
+      "body": "Mintalah dokumen, bukan kata sifat. Metode uji yang relevan untuk kain berlapis antara lain ISO 1421 untuk kekuatan tarik dan perpanjangan saat putus, ISO 2411 untuk daya rekat lapisan, dan ISO 4892-2 untuk paparan lampu busur xenon. Laporan dari laboratorium independen menurut metode ini lebih berarti daripada jumlah tahun yang dinyatakan. Tanyakan juga apa yang dicakup dan dikecualikan garansi (UV, abrasi, dan penggunaan yang salah sering dikecualikan), bagaimana kebocoran dicari dan diperbaiki, apakah kit perbaikan dan kain luar pengganti dijual terpisah, serta bagaimana petunjuk penyimpanannya. Membersihkan dan mengeringkan kain sebelum dikemas adalah syarat dasar umur panjang bagi membran berlapis apa pun."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Apakah tenda tiup bisa bertahan bertahun-tahun?",
+      "a": "Bisa, tetapi tidak ada satu angka jujur, karena umur pakai bergantung pada lapisan kain, paparan UV dan abrasi, penyimpanan, dan secepat apa kerusakan diperbaiki. Tanda tidak memiliki data uji independen tentang umur pakai dan tidak menyebut tahun; berhati-hatilah terhadap pemasok yang menyebutnya tanpa laporan uji."
+    },
+    {
+      "q": "Bagian tenda tiup mana yang rusak lebih dulu?",
+      "a": "Biasanya elemen lokal, bukan seluruh struktur: lapisan luar di bagian yang terpapar matahari atau abrasi, sebuah sambungan, atau sebuah katup. Karena itu pemeriksaan rutin pada kain luar, sambungan, dan katup adalah kebiasaan perawatan yang paling berguna."
+    },
+    {
+      "q": "Apakah tenda tiup yang rusak bisa diperbaiki?",
+      "a": "Tusukan kecil dan kebocoran sambungan pada kain berlapis biasanya bisa diperbaiki dengan tambalan atau prosedur perekatan dari pabrikan, tetapi prosedur dan kit perbaikan perlu dipastikan sebelum membeli. Tanyakan apakah kain luar bisa diganti terpisah dari struktur lainnya."
+    },
+    {
+      "q": "Apakah garansi memberi tahu berapa lama tenda tiup akan bertahan?",
+      "a": "Tidak, garansi menyatakan apa yang ditanggung penjual, bukan umur pakai yang terukur. Bacalah apa yang dikecualikannya, seperti UV, abrasi, dan penggunaan yang salah, lalu mintalah laporan uji ketahanan cuaca, daya rekat, dan kekuatan tarik dari laboratorium independen."
+    }
+  ]
+}

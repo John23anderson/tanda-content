@@ -1,0 +1,42 @@
+{
+  "title": "¿Cuánto duran las carpas inflables?",
+  "desc": "La vida útil de una carpa inflable depende del recubrimiento de la tela, los rayos UV, la abrasión, las costuras y la reparación, no de un número fijo de años. Qué se desgasta primero.",
+  "question": "¿Cuánto duran las carpas inflables (tiendas hinchables)?",
+  "answer": "Una carpa inflable (en España, tienda hinchable) dura mientras el recubrimiento de la tela, las costuras y las válvulas se mantengan íntegros, y eso depende de la exposición a los rayos UV, la abrasión, cómo se pliega y almacena y si los daños se reparan pronto. El desgaste suele ser local, por eso una carpa bien fabricada con paredes drop-stitch o con arcos de aire normalmente se repara o se recubre en lugar de reemplazarse entera. Tanda no dispone de datos de ensayo independientes sobre la vida útil, así que no da cifras en años; pida a cualquier proveedor informes de ensayo de envejecimiento y de recubrimiento en lugar de un número.",
+  "sections": [
+    {
+      "h": "Qué se desgasta primero",
+      "body": "Lo primero que envejece son las partes expuestas al entorno o sometidas a flexión repetida: el recubrimiento exterior de la tela, las costuras donde los paneles están soldados o pegados y las válvulas. El sol y el calor degradan los recubrimientos con el tiempo, el contacto con el suelo y el manejo desgastan la superficie, y el plegado castiga las mismas líneas en cada recogida. Como la estructura mantiene su forma por la presión del aire, una pequeña fuga importa antes que en una carpa sobre armazón rígido. En una pared drop-stitch los hilos internos quedan entre las dos capas de tela, protegidos del sol, y es la tela exterior la que soporta la exposición. Ahí es donde debe concentrarse la inspección."
+    },
+    {
+      "h": "Cómo cambia el tipo de construcción la forma de fallar",
+      "body": "La vida útil depende de cosas distintas en cada construcción. Una carpa de arcos de aire (air-beam) apoya su carga en unos pocos tubos grandes, de modo que el daño en uno de ellos es un incidente estructural y no un defecto estético. Una estructura de aire soportado (tipo Traglufthalle) necesita un ventilador funcionando de forma continua, así que su vida práctica incluye la fiabilidad de la energía y de los ventiladores, y se desinfla si estos se detienen. Una pared drop-stitch es un panel grueso que mantienen plano muchos hilos de igual longitud, por lo que la carga se reparte por la pared en lugar de concentrarse en pocos elementos. Cómo se comporta una pared concreta tras un pinchazo o una costura rota solo lo determinan los ensayos, y Tanda todavía no tiene datos independientes al respecto."
+    },
+    {
+      "h": "Cuándo es mejor una carpa con armazón",
+      "body": "Si el refugio va a permanecer muchas temporadas en el mismo sitio, una carpa con armazón suele ser la compra más segura. Su cubierta de tela se puede sustituir mientras el armazón de acero o aluminio sigue en servicio, no hay nada que mantener a presión y una funda pinchada no cambia la forma de la estructura. Una carpa inflable se justifica donde el refugio debe trasladarse, enviarse en poco volumen, guardarse plegado entre usos o montarse rápido con un equipo pequeño. Elija según el uso: la ocupación fija y prolongada favorece el armazón; los despliegues repetidos favorecen la carpa inflable."
+    },
+    {
+      "h": "Cómo comprobar la afirmación de vida útil de un proveedor",
+      "body": "Pida documentos, no adjetivos. Para tejidos recubiertos, los métodos pertinentes incluyen ISO 1421 (resistencia a la tracción y alargamiento a la rotura), ISO 2411 (adhesión del recubrimiento) e ISO 4892-2 (exposición a lámparas de arco de xenón). Un informe de un laboratorio independiente según estos métodos dice más que un número de años declarado. Pregunte también qué cubre y qué excluye la garantía (los UV, la abrasión y el mal uso suelen excluirse), cómo se localizan y reparan las fugas, si los kits de reparación y la tela exterior de repuesto se venden por separado y cuáles son las instrucciones de almacenamiento. Limpiar y secar la tela antes de guardarla es la condición básica para una larga vida de cualquier membrana recubierta."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Puede una carpa inflable durar años?",
+      "a": "Puede, pero no existe una cifra única honesta, porque la vida útil depende del recubrimiento, de la exposición a UV y abrasión, del almacenamiento y de la rapidez con que se reparen los daños. Tanda no tiene datos de ensayo independientes sobre la vida útil y no cita años; desconfíe de quien los dé sin un informe de ensayo."
+    },
+    {
+      "q": "¿Qué parte de una carpa inflable falla primero?",
+      "a": "Normalmente un elemento local y no toda la estructura: el recubrimiento exterior en zonas expuestas al sol o a la abrasión, una costura o una válvula. Por eso la inspección regular de la tela exterior, las costuras y las válvulas es el hábito de mantenimiento más útil."
+    },
+    {
+      "q": "¿Se puede reparar una carpa inflable dañada?",
+      "a": "Los pinchazos pequeños y las fugas en costuras de tela recubierta suelen poder repararse con el parche o el procedimiento de pegado del fabricante, pero conviene confirmar el procedimiento y el kit de reparación antes de comprar. Pregunte si la tela exterior puede sustituirse por separado del resto de la estructura."
+    },
+    {
+      "q": "¿La garantía me dice cuánto durará una carpa inflable?",
+      "a": "No, una garantía indica qué asume el vendedor, no una vida útil medida. Lea qué excluye, como UV, abrasión y mal uso, y solicite informes de ensayo de envejecimiento, adhesión y tracción de un laboratorio independiente."
+    }
+  ]
+}

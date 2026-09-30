@@ -1,0 +1,62 @@
+{
+  "title": "How Long Do Inflatable Tents Last?",
+  "desc": "Inflatable tent lifespan is set by fabric coating, UV, abrasion, seams and repair, not by a fixed number of years. What wears out first, and what to ask a supplier.",
+  "keywords": "how long do inflatable tents last, inflatable tent lifespan, drop-stitch tent durability, inflatable tent repair, inflatable tent vs frame tent",
+  "question": "How long do inflatable tents last?",
+  "answer": "An inflatable tent lasts as long as its outer fabric coating, seams and valves stay intact, and that depends on UV exposure, abrasion, how the tent is folded and stored, and whether damage is repaired early. Most wear is local, so a well-made drop-stitch or air-beam tent is usually repaired or re-covered rather than replaced as a whole. Tanda has no third-party test data on service life, so we give no year figures; ask any supplier for weathering and coating test reports instead of a number.",
+  "sections": [
+    {
+      "h": "What wears out first",
+      "body": "The parts that age first are the ones exposed to the environment or repeatedly flexed: the outer coating of the fabric, the seams where panels are welded or bonded, and the valves. Sunlight and heat degrade coatings over time, abrasion from ground contact and handling wears the surface, and folding stresses the same lines on every pack-down. Because the structure holds its shape through air pressure, a small leak matters earlier than it would on a tent that stands on a frame. In a drop-stitch wall the internal threads sit between the two fabric layers, out of the sun, and the outer fabric takes the exposure. That is where inspection should concentrate."
+    },
+    {
+      "h": "How the construction changes the failure mode",
+      "body": "Lifespan is tied to different things in each construction. An air-beam tent carries its load on a few large tubes, so damage to one tube is a structural event, not a cosmetic one. An air-supported hall (Traglufthalle style) needs a blower running continuously, so its practical life includes the reliability of power and fans, and it deflates if they stop. A drop-stitch wall is a thick panel held flat by many equal-length threads, so load is spread across the wall rather than concentrated in a few members. How a given wall behaves after a puncture or a torn seam is something only testing can establish, and Tanda does not yet have third-party data on it."
+    },
+    {
+      "h": "When a frame tent is the better choice",
+      "body": "If a shelter will stay on one site for many seasons, a frame tent is often the safer buy. Its fabric roof can be replaced while a steel or aluminium frame carries on, nothing has to be kept under pressure, and a punctured cover does not change the shape of the structure. An inflatable earns its place where the shelter must be moved, shipped in small volume, stored flat between uses, or put up quickly by a small crew. Choose on how you will use it: long fixed occupation favours the frame, repeated redeployment favours the inflatable."
+    },
+    {
+      "h": "How to test a supplier's lifespan claim",
+      "body": "Ask for documents, not adjectives. Relevant test methods for coated fabric include ISO 1421 for tensile strength and elongation at break, ISO 2411 for coating adhesion, and ISO 4892-2 for weathering under xenon-arc light. A report against these methods, from an independent laboratory, tells you more than a stated number of years. Also ask what the warranty covers and excludes (UV, abrasion and misuse are often excluded), how leaks are located and repaired, whether repair kits and replacement outer fabric are sold separately, and what the storage instructions are. Cleaning and drying the fabric before packing it away is a basic condition of a long life for any coated membrane."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can an inflatable tent last for years?",
+      "a": "It can, but no honest single figure exists, because service life depends on the fabric coating, UV and abrasion exposure, storage and how quickly damage is repaired. Tanda has no third-party test data on service life and does not quote years; treat any supplier who does without a test report with caution."
+    },
+    {
+      "q": "What is the first part of an inflatable tent to fail?",
+      "a": "Usually a local item rather than the whole structure: the outer coating where it is exposed to sun or abrasion, a seam, or a valve. That is why regular inspection of the outer fabric, seams and valves is the most useful maintenance habit."
+    },
+    {
+      "q": "Can a damaged inflatable tent be repaired?",
+      "a": "Small punctures and seam leaks in coated fabric can typically be repaired with the maker's patch or bonding procedure, but the procedure and repair kit should be confirmed before you buy. Ask whether the outer fabric can be replaced separately from the rest of the structure."
+    },
+    {
+      "q": "Does a warranty tell me how long an inflatable tent will last?",
+      "a": "No, a warranty states what the seller will cover, not measured service life. Read what it excludes, such as UV, abrasion and misuse, and ask for weathering, adhesion and tensile test reports from an independent laboratory."
+    }
+  ],
+  "sources": [
+    {
+      "label": "ISO 1421:2016 — Rubber- or plastics-coated fabrics: determination of tensile strength and elongation at break",
+      "url": "https://www.iso.org/standard/65588.html"
+    },
+    {
+      "label": "ISO 2411:2024 — Rubber- or plastics-coated fabrics: determination of coating adhesion",
+      "url": "https://www.iso.org/standard/86334.html"
+    },
+    {
+      "label": "ISO 4892-2:2013 — Plastics: methods of exposure to laboratory light sources, xenon-arc lamps",
+      "url": "https://www.iso.org/standard/55481.html"
+    }
+  ],
+  "related": [
+    "compare/inflatable-vs-frame-shelter",
+    "compare/pvc-vs-tpu-drop-stitch",
+    "technology"
+  ]
+}

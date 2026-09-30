@@ -1,0 +1,42 @@
+{
+  "title": "Şişme çadırlar ne kadar dayanır?",
+  "desc": "Şişme çadırın ömrünü sabit bir yıl sayısı değil; kumaş kaplaması, UV, aşınma, dikişler ve onarım belirler. Önce ne aşınır ve tedarikçiye ne sorulmalı.",
+  "question": "Şişme çadırlar ne kadar dayanır?",
+  "answer": "Şişme bir çadır, kumaşın dış kaplaması, dikişleri ve valfleri sağlam kaldığı sürece dayanır; bu da UV maruziyetine, aşınmaya, katlama ve depolama biçimine ve hasarın erken onarılıp onarılmadığına bağlıdır. Aşınma çoğunlukla bölgeseldir; bu yüzden iyi üretilmiş drop-stitch duvarlı veya hava kirişli bir çadır genellikle bütünüyle değiştirilmez, onarılır ya da dış örtüsü yenilenir. Tanda'nın kullanım ömrüne dair bağımsız test verisi yoktur ve bu nedenle yıl rakamı vermeyiz; rakam yerine her tedarikçiden hava koşullarına dayanım ve kaplama test raporları isteyin.",
+  "sections": [
+    {
+      "h": "Önce ne aşınır",
+      "body": "İlk yaşlanan parçalar çevreye açık olanlar veya sürekli bükülenlerdir: kumaşın dış kaplaması, panellerin kaynaklandığı veya yapıştırıldığı dikişler ve valfler. Güneş ve sıcaklık kaplamaları zamanla bozar, zeminle temas ve kullanım yüzeyi aşındırır, katlama da her toplamada aynı çizgileri zorlar. Yapı biçimini hava basıncıyla koruduğu için küçük bir kaçak, sert iskeletli bir çadıra göre daha erken önem kazanır. Bir drop-stitch duvarında iç iplikler iki kumaş katmanı arasında, güneşten uzakta durur; dış etkiye maruz kalan dış kumaştır. Kontroller de burada yoğunlaşmalıdır."
+    },
+    {
+      "h": "Yapı türü arıza biçimini nasıl değiştirir",
+      "body": "Kullanım ömrü her yapıda farklı şeylere bağlıdır. Hava kirişli (air-beam) bir çadır yükünü birkaç büyük tüpe taşıtır; bu yüzden tek bir tüpün hasarı kozmetik değil, yapısal bir olaydır. Sürekli üflemeli hava taşımalı yapı (Traglufthalle tipi) kesintisiz çalışan bir fan gerektirir; pratik ömrü elektrik ve fanların güvenilirliğini de kapsar ve bunlar durursa sönerek çöker. Drop-stitch duvarı, çok sayıda eşit uzunlukta iplikle düz tutulan kalın bir panel olduğundan yük birkaç elemanda toplanmaz, duvara dağılır. Belirli bir duvarın delinme ya da dikiş yırtılması sonrasındaki davranışını yalnızca testler ortaya koyabilir ve Tanda'nın bu konuda henüz bağımsız verisi yoktur."
+    },
+    {
+      "h": "İskeletli çadır ne zaman daha iyi tercihtir",
+      "body": "Bir barınak aynı yerde birçok sezon kalacaksa iskeletli çadır çoğu zaman daha güvenli bir alımdır. Çelik veya alüminyum iskelet hizmet vermeye devam ederken kumaş çatı değiştirilebilir, basınç altında tutulacak bir şey yoktur ve delinen bir örtü yapının şeklini değiştirmez. Şişme çadır ise barınağın taşınması, küçük hacimde sevk edilmesi, kullanımlar arasında katlanıp depolanması veya küçük bir ekiple hızla kurulması gereken yerlerde hak ettiği yeri bulur. Kullanıma göre seçin: uzun süreli sabit kullanım iskeleti, sık yeniden konuşlandırma şişme çadırı öne çıkarır."
+    },
+    {
+      "h": "Tedarikçinin ömür iddiası nasıl sınanır",
+      "body": "Sıfat değil belge isteyin. Kaplamalı kumaşlar için ilgili yöntemler arasında ISO 1421 (çekme dayanımı ve kopma uzaması), ISO 2411 (kaplama yapışması) ve ISO 4892-2 (ksenon ark lambalarıyla maruz bırakma) bulunur. Bu yöntemlere göre bağımsız bir laboratuvardan alınan rapor, beyan edilen yıl sayısından daha çok şey söyler. Ayrıca garantinin neyi kapsayıp neyi dışarıda bıraktığını (UV, aşınma ve hatalı kullanım çoğunlukla hariçtir), kaçakların nasıl bulunup onarıldığını, onarım setlerinin ve yedek dış kumaşın ayrı satılıp satılmadığını ve depolama talimatlarını sorun. Kumaşı paketlemeden önce temizleyip kurutmak, her kaplamalı membranın uzun ömrü için temel koşuldur."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Şişme bir çadır yıllarca dayanabilir mi?",
+      "a": "Dayanabilir, ancak dürüst tek bir rakam yoktur; ömür kumaş kaplamasına, UV ve aşınma maruziyetine, depolamaya ve hasarın ne kadar çabuk onarıldığına bağlıdır. Tanda'nın kullanım ömrüne dair bağımsız test verisi yoktur ve yıl belirtmez; bunu test raporu olmadan yapan tedarikçilere temkinli yaklaşın."
+    },
+    {
+      "q": "Şişme çadırın hangi parçası önce arızalanır?",
+      "a": "Genellikle tüm yapı değil, bölgesel bir eleman: güneşe veya aşınmaya açık yerlerdeki dış kaplama, bir dikiş ya da bir valf. Bu nedenle dış kumaşın, dikişlerin ve valflerin düzenli kontrolü en yararlı bakım alışkanlığıdır."
+    },
+    {
+      "q": "Hasar görmüş şişme çadır onarılabilir mi?",
+      "a": "Kaplamalı kumaştaki küçük delikler ve dikiş kaçakları genellikle üreticinin yama veya yapıştırma prosedürüyle onarılabilir, ancak prosedür ve onarım seti satın almadan önce doğrulanmalıdır. Dış kumaşın yapının geri kalanından ayrı değiştirilip değiştirilemeyeceğini sorun."
+    },
+    {
+      "q": "Garanti, şişme çadırın ne kadar dayanacağını söyler mi?",
+      "a": "Hayır, garanti satıcının neyi üstlendiğini belirtir, ölçülmüş kullanım ömrünü değil. UV, aşınma ve hatalı kullanım gibi neleri hariç tuttuğunu okuyun ve bağımsız bir laboratuvardan hava koşullarına dayanım, yapışma ve çekme test raporları isteyin."
+    }
+  ]
+}
